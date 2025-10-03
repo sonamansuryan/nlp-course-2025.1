@@ -3,42 +3,18 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="\Alisa Sujyan\Lab_3\Coachella-2015-2-DFE.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\Alisa Sujyan\Lab_3\coachella_final_text.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\Sona Mansuryan\Task 3\Coachella-2015-2-DFE.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\Sona Mansuryan\Task 3\cleaned_coachella_tweets.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\Sona Mansuryan\Task 4\bbc-text.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\Sona Mansuryan\Task 4\cleaned_bbc_text.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
